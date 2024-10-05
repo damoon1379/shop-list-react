@@ -1,0 +1,23 @@
+img{
+    border-radius: 20px;
+    width:100%;
+    height: 100%;
+}
+
+.product{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+    border-radius:10px;
+}
+.product:hover{
+    border: solid 2px orangered;
+}
+
+.addBtn{
+    border: 2px solid gray;
+}
+.addBtn:hover{
+    border:2px solid orangered;
+}

@@ -1,0 +1,19 @@
+.total-price{
+    display:flex;
+    justify-content: space-between;
+}
+.AddedItems{
+    display:flex;
+    justify-content: space-between;
+}
+.YourCart{
+    font-size: larger;
+    color: hsl(12, 20%, 44%);
+    font-weight: bolder;
+}
+.btn{
+    color:orangered;
+}
+.btn-clicked{
+    display:none;
+}
